@@ -9,3 +9,4 @@ venv/
 .pytest_cache/
 candidate_pack/
 candidate_pack_v3.zip
+*.zip
